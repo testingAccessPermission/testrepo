@@ -1,1 +1,35 @@
+{
+"PRO":
+{   
+"server1" : "http://g4t8318.houston.hpecorp.net:8380/legacy-match/address/v1?wsdl", 
+"server2" : "http://g4t8318.houston.hpecorp.net:8390/legacy-match/address/v1?wsdl", 
+"server3" : "http://g4t8318.houston.hpecorp.net:8400/legacy-match/address/v1?wsdl",
+"server4" : "http://address-service.core.hpecorp.net/legacy-match/address/v1?wsdl", 
+"server5" : "http://g9t8318.houston.hpecorp.net:8400/legacy-match/address/v1?wsdl",
+"server6" : "http://g9t8318.houston.hpecorp.net:8400/legacy-match/address/v1?wsdl",
+"server7" : "http://g9t8318.houston.hpecorp.net:8400/legacy-match/address/v1?wsdl" 
+},
+"DEV":
+{
+"server1" : "http://g4t8318.houston.hpecorp.net:8380/legacy-match/address/v1?wsdl", 
+"server2" : "http://g4t8318.houston.hpecorp.net:8390/legacy-match/address/v1?wsdl", 
+"server3" : "http://g4t8318.houston.hpecorp.net:8400/legacy-match/address/v1?wsdl",
+"server4" : "http://address-service.core.hpecorp.net/legacy-match/address/v1?wsdl", 
+"server5" : "http://g9t8318.houston.hpecorp.net:8400/legacy-match/address/v1?wsdl",
+"server6" : "http://g9t8318.houston.hpecorp.net:8400/legacy-match/address/v1?wsdl",
+"server7" : "http://g9t8318.houston.hpecorp.net:8400/legacy-match/address/v1?wsdl",
+"server8" : "https://www.google.co.in" 
+},
+"ITG":
+{
+"server1" : "http://g4t8318.houston.hpecorp.net:8380/legacy-match/address/v1?wsdl", 
+"server2" : "http://g4t8318.houston.hpecorp.net:8390/legacy-match/address/v1?wsdl", 
+"server3" : "http://g4t8318.houston.hpecorp.net:8400/legacy-match/address/v1?wsdl",
+"server4" : "http://address-service.core.hpecorp.net/legacy-match/address/v1?wsdl", 
+"server5" : "http://g9t8318.houston.hpecorp.net:8400/legacy-match/address/v1?wsdl",
+"server6" : "http://g9t8318.houston.hpecorp.net:8400/legacy-match/address/v1?wsdl",
+"server7" : "http://g9t8318.houston.hpecorp.net:8400/legacy-match/address/v1?wsdl" 
+}
+
+}
 
